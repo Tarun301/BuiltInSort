@@ -1,0 +1,7 @@
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\bin\Debug\BuiltInSort.exe.config
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\bin\Debug\BuiltInSort.exe
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\bin\Debug\BuiltInSort.pdb
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\obj\Debug\BuiltInSort.csprojAssemblyReference.cache
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\obj\Debug\BuiltInSort.csproj.CoreCompileInputs.cache
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\obj\Debug\BuiltInSort.exe
+C:\Users\tksai\source\repos\BuiltInSort\BuiltInSort\obj\Debug\BuiltInSort.pdb
